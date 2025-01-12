@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A Python website using Streamlit and AI to convert messy & handwritten notes to a neatly organized document!<br><br>🌱 I’m currently learning: Java.<br><br>👯 I’m looking to collaborate on: My AI tools website.<br><br>🤔 I’m looking for help with: Learning Java UI frameworks, specifically JavaFX and Swing.<br><br>💬 Ask me about: Streamlit!<br><br>📫 How to reach me: Open a PR where needed!<br><br>😄 Pronouns: He/Him/His.<br><br>⚡ Fun fact: I speak Spanish (B2).<br><br>💻 Skilled in: Python.
+🔭 I’m currently working on: A whole bunch of projects with Next JS!<br><br>🌱 I’m currently learning: Java.<br><br>👯 I’m looking to collaborate on: My high school time until graduation project..<br><br>🤔 I’m looking for help with: Learning Java UI frameworks, specifically JavaFX and Swing.<br><br>💬 Ask me about: Streamlit!<br><br>📫 How to reach me: Open a PR where needed!<br><br>😄 Pronouns: He/Him/His.<br><br>⚡ Fun fact: I speak Spanish (B2).<br><br>💻 Skilled in: Python.
 
 
 # 💻 Tech Stack:
